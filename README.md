@@ -24,9 +24,10 @@ It was built as part of a front-end development training program.
 - **Footer Section**: Contains 4 columns: branding, quick links, resources, and newsletter
 - **Responsive Design**: Mobile and desktop friendly
 
-## Screenshots
+## Screenshots 
 
-_Add a screenshot here if needed_
+<img width="1782" height="1019" alt="Ekran Resmi 2026-03-05 03 25 27" src="https://github.com/user-attachments/assets/fca1d334-95f5-4832-af5d-f0b5cd267e08" />
+
 
 ## License
 
