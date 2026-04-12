@@ -1,34 +1,76 @@
-# CryptoVerse
+# 🌐 CryptoVerse
 
-CryptoVerse is a responsive landing page project focused on cryptocurrency services.  
-It was built as part of a front-end development training program.
+A fully responsive cryptocurrency information landing page built with HTML5, CSS3, Bootstrap 5, and Font Awesome. Features a hero slider, live crypto news section, testimonials, contact form, and a professional multi-column footer.
 
-## Features
+🔗 **[Live Demo](https://hasankoparan.github.io/CryptoVerse)**
 
-- Fully responsive layout
-- Contact form with form controls
-- Newsletter subscription section
-- Footer section with company info, navigation links, and app download buttons
-- Integrated Font Awesome icons and Bootstrap badges
+-----
 
-## Technologies Used
+## ✨ Features
 
-- HTML5
-- CSS3
-- Bootstrap 5.3
-- Font Awesome
+- 🎠 Hero section with image slider
+- 💰 Popular Cryptocurrencies section
+- 📰 Latest Crypto News with category badges
+- ⭐ Testimonials section
+- 📬 Contact form with name, email, subject and message fields
+- 🔗 Multi-column footer with quick links, resources and newsletter
+- 📱 Fully responsive — mobile and desktop friendly
+- 🎨 Modern dark-themed UI design
+- 🏷️ Bootstrap badges and Font Awesome icons throughout
 
-## Project Sections
+-----
 
-- **Contact Section**: Includes address, phone, email, and a working contact form
-- **Footer Section**: Contains 4 columns: branding, quick links, resources, and newsletter
-- **Responsive Design**: Mobile and desktop friendly
+## 🛠️ Built With
 
-## Screenshots 
+- **HTML5** — Semantic page structure
+- **CSS3** — Custom styling on top of Bootstrap
+- **Bootstrap 5.3** — Grid system, components, utilities
+- **Font Awesome** — Icon library
 
-<img width="1782" height="1019" alt="Ekran Resmi 2026-03-05 03 25 27" src="https://github.com/user-attachments/assets/fca1d334-95f5-4832-af5d-f0b5cd267e08" />
+-----
 
+## 📄 Page Sections
 
-## License
+- **Home** — Hero slider with CTA buttons
+- **Cryptos** — Popular cryptocurrency cards
+- **Features** — Platform highlights
+- **Testimonials** — User reviews
+- **News** — Latest crypto news with timestamps
+- **Contact** — Contact form and company info
+- **Footer** — Links, resources, newsletter signup
 
-This project is for educational purposes only.    
+-----
+
+## 📁 Project Structure
+
+```
+CryptoVerse/
+├── index.html      # Full single-page layout
+├── style.css       # Custom styles
+└── main.js         # Slider and interactivity
+```
+
+-----
+
+## 🚀 Getting Started
+
+No installation needed.
+
+```bash
+git clone https://github.com/HasanKoparan/CryptoVerse.git
+```
+
+Then open `index.html` in your browser — or use Live Server in VS Code.
+
+-----
+
+## 👨‍💻 Author
+
+**Hasan Koparan**
+
+- GitHub: [@HasanKoparan](https://github.com/HasanKoparan)
+- LinkedIn: [linkedin.com/in/hasankoparan](https://linkedin.com/in/hasankoparan)
+
+-----
+
+> Built as part of a fullstack development program — practicing real-world UI design with Bootstrap and responsive layout techniques. 💪
