@@ -3,7 +3,7 @@
 A fully responsive cryptocurrency information landing page built with HTML5, CSS3, Bootstrap 5, and Font Awesome. Features a hero slider, live crypto news section, testimonials, contact form, and a professional multi-column footer.
 
 🔗 **[Live Demo](https://hasankoparan.github.io/CryptoVerse)**
-
+https://hasankoparan.github.io/CryptoVerse/
 -----
 
 ## ✨ Features
